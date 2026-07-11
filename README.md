@@ -9,7 +9,7 @@ This project simulates an enterprise-grade Knowledge Management portal designed 
 
 
 
-# Visit the deployed website live at : https://ashish-augustine.github.io/smart-infra-docs/
+# Visit the project live at : https://ashish-augustine.github.io/smart-infra-docs/
 
 
 
