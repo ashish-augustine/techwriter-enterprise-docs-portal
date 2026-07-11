@@ -1,5 +1,5 @@
 # A Docs-as-Code portfolio for smart infrastructure. 
-## Demonstrates enterprise Information Architecture, Mermaid.js diagrams, and CI/CD deployment using MkDocs and Git. 
+Demonstrates enterprise Information Architecture, Mermaid.js diagrams, and CI/CD deployment using MkDocs and Git. 
 
 # Project Summary
 
