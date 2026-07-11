@@ -5,6 +5,17 @@
 # Project Purpose & Scope:
 This project simulates an enterprise-grade Knowledge Management portal designed to serve as the Single Source of Truth (SSoT) for a multibillion-dollar Smart Infrastructure division. The scope encompasses bridging the documentation gap between physical Civil Engineering assets (bridges, utilities, rail) and digital Systems Engineering telemetry (IoT sensors, API endpoints) to support the maintenance of live Digital Twins.
 
+
+
+
+
+# Visit the deployed website live at : https://ashish-augustine.github.io/smart-infra-docs/
+
+
+
+
+
+
 ## Technical Execution:
 Built from scratch using a modern Docs-as-Code methodology, this portfolio demonstrates the ability to treat documentation like software. It was authored in Markdown, version-controlled via Git/GitHub, and statically generated using MkDocs (Material Theme).
 
@@ -21,8 +32,6 @@ CI/CD Deployment: Managed a fully automated deployment pipeline using GitHub Pag
 
 
 
-
-## Visit the deployed website live at : https://ashish-augustine.github.io/smart-infra-docs/
 
 
  
