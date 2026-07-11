@@ -6,34 +6,22 @@ This project simulates an enterprise-grade Knowledge Management portal designed 
 
 
 
+Built from scratch using a modern Docs-as-Code methodology, this portfolio demonstrates the ability to treat documentation like software. It was authored in Markdown, version-controlled via Git/GitHub, and statically generated using MkDocs (Material Theme).
+
+
+
+
+
+
 
 
 ## Visit this project live at : https://ashish-augustine.github.io/smart-infra-docs/
 
 
-
-
-
-
-# Technical Execution:
-Built from scratch using a modern Docs-as-Code methodology, this portfolio demonstrates the ability to treat documentation like software. It was authored in Markdown, version-controlled via Git/GitHub, and statically generated using MkDocs (Material Theme).
-
-# Core Skills & Tools Demonstrated:
-
-Information Architecture (IA) & Governance: Designed scalable directory structures, enforced YAML metadata standards, and mapped out comprehensive document lifecycles (Creation, SME Review, Audit, Deprecation).
-
-Visual Engineering: Utilized Mermaid.js to programmatically generate dynamic, code-based diagrams (flowcharts, state diagrams) representing complex cyber-physical architectures without relying on static images.
-
-API & Systems Integration: Architected intake strategies for auto-generating Swagger/OpenAPI schemas alongside standard operating procedures (SOPs).
-
-CI/CD Deployment: Managed a fully automated deployment pipeline using GitHub Pages to push documentation from local development branches to a live production environment.
-
-
-
-
-
-
  
+
+
+
 
 
 
@@ -138,13 +126,19 @@ Swagger/OpenAPI (Architectural): Integrated conceptually as the automated API sc
 
 
 
+
+
+
+
+
+
 ## 🧠 Core Skills & Methodologies Demonstrated
 
 Docs-as-Code Architecture: Treating documentation like software by writing in Markdown, tracking changes in Git, and deploying via automated pipelines.
 
-Information Architecture (IA): Designing scalable folder structures, taxonomies, and deep-nested navigation for thousands of technical documents.
+Information Architecture (IA) & Governance: Designed scalable directory structures, enforced YAML metadata standards, and mapped out comprehensive document lifecycles (Creation, SME Review, Audit, Deprecation). Designing scalable folder structures, taxonomies, and deep-nested navigation for thousands of technical documents.
 
-Visual Engineering: Translating complex physical structures and operational workflows into code-based visual representations rather than relying on static images.
+Visual Engineering: Utilized Mermaid.js to programmatically generate dynamic, code-based diagrams (flowcharts, state diagrams) representing complex cyber-physical architectures without relying on static images. Translating complex physical structures and operational workflows into code-based visual representations rather than relying on static images.
 
 Metadata Standardization: Enforcing YAML frontmatter (Document IDs, Tiering, Review Dates) to ensure enterprise searchability and compliance.
 
@@ -155,3 +149,9 @@ API Documentation Integration: Architecting frameworks to ingest dynamic softwar
 CI/CD Deployment: Managing automated build processes to push documentation from local development branches to live production environments.
 
 Cross-Disciplinary Integration: Bridging the gap between heavy Civil Engineering (CAD/Structural) and digital Systems Engineering (IoT/Telemetry) within a single source of truth.
+
+
+
+
+
+ 
