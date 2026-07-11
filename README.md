@@ -1,34 +1,31 @@
-# smart-infra-docs
+# A Docs-as-Code portfolio for smart infrastructure. Demonstrates enterprise Information Architecture, Mermaid.js diagrams, and CI/CD deployment using MkDocs and Git. 
 
+# Project Summary
 
-# Visit the deployed website live at : https://ashish-augustine.github.io/smart-infra-docs/
+## Project Purpose & Scope:
+This project simulates an enterprise-grade Knowledge Management portal designed to serve as the Single Source of Truth (SSoT) for a multibillion-dollar Smart Infrastructure division. The scope encompasses bridging the documentation gap between physical Civil Engineering assets (bridges, utilities, rail) and digital Systems Engineering telemetry (IoT sensors, API endpoints) to support the maintenance of live Digital Twins.
 
+## Technical Execution:
+Built from scratch using a modern Docs-as-Code methodology, this portfolio demonstrates the ability to treat documentation like software. It was authored in Markdown, version-controlled via Git/GitHub, and statically generated using MkDocs (Material Theme).
 
+## Core Skills & Tools Demonstrated:
 
+Information Architecture (IA) & Governance: Designed scalable directory structures, enforced YAML metadata standards, and mapped out comprehensive document lifecycles (Creation, SME Review, Audit, Deprecation).
 
-How to run locally
-============
-1. Create and Activate the Virtual Environment
-Run these commands one by one in your VS Code terminal (ensure you are still inside the smart-infra-docs folder):
->
-        python3 -m venv venv
-        source venv/bin/activate
+Visual Engineering: Utilized Mermaid.js to programmatically generate dynamic, code-based diagrams (flowcharts, state diagrams) representing complex cyber-physical architectures without relying on static images.
 
+API & Systems Integration: Architected intake strategies for auto-generating Swagger/OpenAPI schemas alongside standard operating procedures (SOPs).
 
-2. Install All Dependencies Inside the Sandbox
-Now that we are safely inside the virtual environment, let's install MkDocs, the Material theme, and the missing extensions:
->
-        pip install mkdocs mkdocs-material pymdown-extensions
-
-3. Test the Server Again
-Once the installation finishes successfully, run the serve command:
->
-        mkdocs serve
+CI/CD Deployment: Managed a fully automated deployment pipeline using GitHub Pages to push documentation from local development branches to a live production environment.
 
 
 
-============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
+
+## Visit the deployed website live at : https://ashish-augustine.github.io/smart-infra-docs/
+
+
+ 
 
 
 
