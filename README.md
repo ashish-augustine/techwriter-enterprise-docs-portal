@@ -16,9 +16,6 @@ Built from scratch using a modern Docs-as-Code methodology, this portfolio demon
 
 
 
-## Visit this project live at : https://ashish-augustine.github.io/smart-infra-docs/
-
-
  
 
 
@@ -150,6 +147,12 @@ API Documentation Integration: Architecting frameworks to ingest dynamic softwar
 CI/CD Deployment: Managing automated build processes to push documentation from local development branches to live production environments.
 
 Cross-Disciplinary Integration: Bridging the gap between heavy Civil Engineering (CAD/Structural) and digital Systems Engineering (IoT/Telemetry) within a single source of truth.
+
+
+
+
+## Visit this project live at : https://ashish-augustine.github.io/smart-infra-docs/
+
 
 
 
