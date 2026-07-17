@@ -16,7 +16,7 @@ Built from scratch using a modern Docs-as-Code methodology, this portfolio demon
 
 
 
-## Visit this project live at : [https://ashish-augustine.github.io/smart-infra-docs/](https://ashish-augustine.github.io/enterprise-docs-portal/)
+## Visit this project live at : [https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/](https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/)
 
  
 
