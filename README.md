@@ -28,9 +28,11 @@ Built from scratch using a modern Docs-as-Code methodology, this portfolio demon
 
 
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/4bf2a7de-2bc1-4183-88e2-443192fa47c2" />
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/e61896ff-9bc5-467b-bad1-9a7ca7d6b8f3" />
 
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/42f25b23-ac62-440e-8cc5-e71872328508" />
+
+
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/e61896ff-9bc5-467b-bad1-9a7ca7d6b8f3" />
 
 ## Visit this project live at : [https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/](https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/)
 
