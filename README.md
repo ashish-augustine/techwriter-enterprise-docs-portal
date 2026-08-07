@@ -20,8 +20,7 @@ Built from scratch using a modern Docs-as-Code methodology, this portfolio demon
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/433bfd5d-1914-40bd-8cc6-1b211306dfcc" />
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/3f4ed12f-0a2b-4878-a0e3-d1d1adf30182" />
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/105f0e1d-08ba-42de-8ed7-2b6e653a74b0" />
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/547bb0d9-7b45-44cc-85f0-b1ac93d6e14f" />
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/392d9a16-cf10-4c2d-b831-479cca1743c8" />
+
 
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/42f25b23-ac62-440e-8cc5-e71872328508" />
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/f6d397ff-732e-4cc0-8557-9cf96d5966e4" />
