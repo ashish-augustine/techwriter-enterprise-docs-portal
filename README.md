@@ -14,9 +14,6 @@ Built from scratch using a modern Docs-as-Code methodology, this portfolio demon
 
 # Screenshots
  
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/4bf2a7de-2bc1-4183-88e2-443192fa47c2" />
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/e61896ff-9bc5-467b-bad1-9a7ca7d6b8f3" />
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/e2de11ef-ed75-47bf-bbe1-2ece1e47561d" />
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/3504136e-53be-42f8-a6ad-cc1ca154c310" />
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/c02e1a53-4be0-43e1-acba-f66389e88a9f" />
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/c8faad93-a762-437b-ae41-54569e0449f5" />
@@ -29,6 +26,10 @@ Built from scratch using a modern Docs-as-Code methodology, this portfolio demon
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/42f25b23-ac62-440e-8cc5-e71872328508" />
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/f6d397ff-732e-4cc0-8557-9cf96d5966e4" />
 
+
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/4bf2a7de-2bc1-4183-88e2-443192fa47c2" />
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/e61896ff-9bc5-467b-bad1-9a7ca7d6b8f3" />
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/e2de11ef-ed75-47bf-bbe1-2ece1e47561d" />
 
 ## Visit this project live at : [https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/](https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/)
 
