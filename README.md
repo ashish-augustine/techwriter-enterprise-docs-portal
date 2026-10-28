@@ -7,7 +7,8 @@
 
 A **Docs-as-Code technical writing portfolio** demonstrating documentation architecture, information architecture, documentation governance, Mermaid.js diagrams, and static site publishing through a simulated smart infrastructure knowledge portal.
 
-**[Explore the Live Documentation Portal](https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/)**
+
+🔗 **[Explore the Live Documentation Portal](https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/)**
 
 ## 📋 Overview
 
