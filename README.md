@@ -1,11 +1,10 @@
 # Technical Writing Portfolio 
 ## Docs-as-Code, API Documentation & Information Architecture 
 
-A technical writing portfolio showcasing Docs-as-Code, technical documentation, information architecture, documentation governance, Mermaid.js diagrams, and MkDocs through a simulated smart infrastructure documentation portal.
 
 # Project Summary
 
-This project simulates an enterprise-grade Knowledge Management portal designed to serve as the Single Source of Truth (SSoT) for a multibillion-dollar Smart Infrastructure division. The scope encompasses bridging the documentation gap between physical Civil Engineering assets (bridges, utilities, rail) and digital Systems Engineering telemetry (IoT sensors, API endpoints) to support the maintenance of live Digital Twins.
+A technical writing portfolio showcasing Docs-as-Code, technical documentation, information architecture, documentation governance, Mermaid.js diagrams, and MkDocs through a simulated smart infrastructure documentation portal. This project simulates an enterprise-grade Knowledge Management portal designed to serve as the Single Source of Truth (SSoT) for a multibillion-dollar Smart Infrastructure division. The scope encompasses bridging the documentation gap between physical Civil Engineering assets (bridges, utilities, rail) and digital Systems Engineering telemetry (IoT sensors, API endpoints) to support the maintenance of live Digital Twins.
 
 
 
