@@ -108,7 +108,6 @@ This project is continuously deployed using GitHub Pages.
 To manually trigger a build and deployment, use the following command:
 mkdocs gh-deploy
 
-Architected and maintained by [ASHISH AUGUSTINE / https://ashish-augustine.github.io/smart-infra-docs/].
 ```
 
 
@@ -167,6 +166,18 @@ CI/CD Deployment: Managing automated build processes to push documentation from 
 
 Cross-Disciplinary Integration: Bridging the gap between heavy Civil Engineering (CAD/Structural) and digital Systems Engineering (IoT/Telemetry) within a single source of truth.
 
+
+---
+
+## 👨‍💻 Architected & Maintained By
+
+**[Ashish Augustine](https://ashish-augustine.github.io/smart-infra-docs/)**
+
+🚀 *Designed, developed, and maintained with a focus on innovation, reliability, and continuous improvement.*
+
+🌐 **Portfolio & Documentation:** [ashish-augustine.github.io/smart-infra-docs](https://ashish-augustine.github.io/smart-infra-docs/)
+
+⭐ If you find this project useful, consider giving it a star!
 
 
 
