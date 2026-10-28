@@ -51,12 +51,11 @@ The project simulates a centralized Knowledge Management portal for a multibilli
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/f6d397ff-732e-4cc0-8557-9cf96d5966e4" />
 
 
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/4bf2a7de-2bc1-4183-88e2-443192fa47c2" />
+ 
 
 <img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/42f25b23-ac62-440e-8cc5-e71872328508" />
 
-
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/e61896ff-9bc5-467b-bad1-9a7ca7d6b8f3" />
+ 
 
  
 
