@@ -1,4 +1,5 @@
-# Technical Writing Portfolio | Docs-as-Code, API Documentation & Information Architecture 
+# Technical Writing Portfolio 
+## Docs-as-Code, API Documentation & Information Architecture 
 
 A technical writing portfolio showcasing Docs-as-Code, technical documentation, information architecture, documentation governance, Mermaid.js diagrams, and MkDocs through a simulated smart infrastructure documentation portal.
 
