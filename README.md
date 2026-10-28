@@ -1,15 +1,15 @@
 # Technical Writing Portfolio
 ## Smart Infrastructure & Civil Engineering Documentation Portal
 
-Technical Writing · Docs-as-Code · Information Architecture · Documentation Governance · Smart Infrastructure
 
 A **Docs-as-Code technical writing portfolio** demonstrating documentation architecture, information architecture, documentation governance, Mermaid.js diagrams, and static site publishing through a simulated smart infrastructure knowledge portal.
 
-
+Technical Writing · Docs-as-Code · Information Architecture · Documentation Governance · Smart Infrastructure
 [![Built with MkDocs](https://img.shields.io/badge/Built%20with-MkDocs-blue.svg)](https://www.mkdocs.org/)
 [![Theme: Material for MkDocs](https://img.shields.io/badge/Theme-Material%20for%20MkDocs-526CFE.svg)](https://squidfunk.github.io/mkdocs-material/)
 [![Deployed on GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-brightgreen.svg)](https://pages.github.com/)
  
+
 🔗 **[Explore the Live Documentation Portal](https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/)**
 
 ## 📋 Overview
