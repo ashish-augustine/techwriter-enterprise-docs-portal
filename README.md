@@ -72,41 +72,7 @@ The portfolio showcases both the technical implementation of a documentation por
 ├── mkdocs.yml             # Global configuration, theme, and navigation settings
 └── README.md              # Project documentation
 
-
-
-🚀 Getting Started (Local Development)
-To run this documentation portal locally on your machine, follow these steps:
-
-1. Prerequisites
-Ensure you have Python 3 installed on your system.
-
-2. Installation
-Clone this repository and navigate into the project directory:
-git clone [https://github.com/yourusername/smart-infra-docs.git](https://github.com/yourusername/smart-infra-docs.git)
-cd smart-infra-docs
-
-
-
-Set up a virtual environment and install the required dependencies (MkDocs and the Material theme):
-
-# Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-# Install dependencies
-pip install mkdocs-material
-
-
-3. Running the Local Server
-Launch the live-reloading development server:
-mkdocs serve
-Open your browser and navigate to http://127.0.0.1:8000/ to view the site.
-
-
-🌐 Live Deployment
-This project is continuously deployed using GitHub Pages.
-To manually trigger a build and deployment, use the following command:
-mkdocs gh-deploy
+ 
 
 ```
 
@@ -168,6 +134,103 @@ Cross-Disciplinary Integration: Bridging the gap between heavy Civil Engineering
 
 
 ---
+
+## 🚀 Getting Started (Local Development)
+
+Follow the steps below to set up and run the **Smart Infra Documentation Portal** locally on your machine.
+
+### 📋 1. Prerequisites
+
+Before you begin, make sure you have the following installed:
+
+- 🐍 **Python 3** — [Download Python](https://www.python.org/downloads/)
+- 🛠️ **Git** — [Download Git](https://git-scm.com/downloads)
+
+### 📥 2. Clone the Repository
+
+Clone the repository and navigate to the project directory:
+
+```bash
+git clone https://github.com/yourusername/smart-infra-docs.git
+cd smart-infra-docs
+```
+
+### 🧪 3. Set Up a Virtual Environment
+
+Create and activate a Python virtual environment to keep project dependencies isolated.
+
+**Linux / macOS**
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+**Windows**
+```powershell
+python -m venv venv
+venv\Scripts\activate
+```
+
+### 📦 4. Install Dependencies
+
+Install **MkDocs Material**, the documentation framework and theme used by this project:
+
+```bash
+pip install mkdocs-material
+```
+
+### 💻 5. Run the Local Development Server
+
+Start the MkDocs development server:
+
+```bash
+mkdocs serve
+```
+
+Once the server starts, open your browser and visit:
+
+👉 **http://127.0.0.1:8000/**
+
+The site will automatically reload when you make changes to the documentation files, making local development quick and easy. 🎉
+
+---
+
+## 🌐 Live Deployment
+
+The documentation portal is continuously deployed to **GitHub Pages**, making the latest published documentation accessible online.
+
+### 🚀 Deploy Manually
+
+To build and deploy the documentation manually, run:
+
+```bash
+mkdocs gh-deploy
+```
+
+This command builds the documentation site and publishes it to the configured GitHub Pages branch.
+
+### ✅ Deployment Checklist
+
+- 📝 Commit and push your latest documentation changes.
+- 🔍 Preview the site locally using `mkdocs serve`.
+- 🚀 Run `mkdocs gh-deploy` to publish the updates.
+- 🌍 Visit your GitHub Pages URL to verify the deployment.
+
+---
+
+## 🛠️ Tech Stack
+
+- 🐍 **Python 3** — Runtime environment
+- 📚 **MkDocs** — Static documentation generator
+- 🎨 **MkDocs Material** — Documentation theme
+- 🐙 **GitHub Pages** — Documentation hosting
+
+---
+
+💡 **Tip:** If you frequently work on this project, consider adding `mkdocs-material` to a `requirements.txt` file so dependencies can be installed easily with `pip install -r requirements.txt`.
+
+
+
 
 ## 👨‍💻 Architected & Maintained By
 
