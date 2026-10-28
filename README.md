@@ -34,6 +34,37 @@ The project simulates a centralized Knowledge Management portal for a multibilli
 * **API Integration Strategy:** Architectural frameworks designed to ingest and render Swagger/OpenAPI schemas alongside standard operating procedures (SOPs).
 * **CI/CD Deployment:** Configured for seamless, automated static site generation and hosting via GitHub Pages.
 
+
+
+# Screenshots
+ 
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/3504136e-53be-42f8-a6ad-cc1ca154c310" />
+
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/e2de11ef-ed75-47bf-bbe1-2ece1e47561d" />
+
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/c02e1a53-4be0-43e1-acba-f66389e88a9f" /> 
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/433bfd5d-1914-40bd-8cc6-1b211306dfcc" />
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/3f4ed12f-0a2b-4878-a0e3-d1d1adf30182" />
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/105f0e1d-08ba-42de-8ed7-2b6e653a74b0" />
+
+
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/f6d397ff-732e-4cc0-8557-9cf96d5966e4" />
+
+
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/4bf2a7de-2bc1-4183-88e2-443192fa47c2" />
+
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/42f25b23-ac62-440e-8cc5-e71872328508" />
+
+
+<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/e61896ff-9bc5-467b-bad1-9a7ca7d6b8f3" />
+
+ 
+
+## Visit this project live : 
+## [https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/](https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/)
+
+
+
 ## 🗂️ Repository Structure
 ```text
 ├── docs/
@@ -119,35 +150,6 @@ Swagger/OpenAPI (Architectural): Integrated conceptually as the automated API sc
 
 
 
-
-
-
-# Screenshots
- 
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/3504136e-53be-42f8-a6ad-cc1ca154c310" />
-
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/e2de11ef-ed75-47bf-bbe1-2ece1e47561d" />
-
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/c02e1a53-4be0-43e1-acba-f66389e88a9f" /> 
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/433bfd5d-1914-40bd-8cc6-1b211306dfcc" />
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/3f4ed12f-0a2b-4878-a0e3-d1d1adf30182" />
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/105f0e1d-08ba-42de-8ed7-2b6e653a74b0" />
-
-
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/f6d397ff-732e-4cc0-8557-9cf96d5966e4" />
-
-
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/4bf2a7de-2bc1-4183-88e2-443192fa47c2" />
-
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/42f25b23-ac62-440e-8cc5-e71872328508" />
-
-
-<img width="1905" height="983" alt="Image" src="https://github.com/user-attachments/assets/e61896ff-9bc5-467b-bad1-9a7ca7d6b8f3" />
-
- 
-
-## Visit this project live : 
-## [https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/](https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/)
 
 
 
