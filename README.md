@@ -2,7 +2,7 @@
 ## Smart Infrastructure & Civil Engineering Documentation Portal
 
 
-A **Docs-as-Code technical writing portfolio** demonstrating documentation architecture, information architecture, documentation governance, Mermaid.js diagrams, and static site publishing through a simulated smart infrastructure knowledge portal.
+> **A **Docs-as-Code technical writing portfolio** demonstrating documentation architecture, information architecture, documentation governance, Mermaid.js diagrams, and static site publishing through a simulated smart infrastructure knowledge portal.
 
 Technical Writing · Docs-as-Code · Information Architecture · Documentation Governance · Smart Infrastructure
 
