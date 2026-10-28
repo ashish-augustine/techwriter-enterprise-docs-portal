@@ -9,7 +9,7 @@ A **Docs-as-Code technical writing portfolio** demonstrating documentation archi
 
 **[Explore the Live Documentation Portal](https://ashish-augustine.github.io/techwriter-enterprise-docs-portal/)**
 
-## Overview
+## 📋 Overview
 
 This project simulates an enterprise knowledge management portal designed to serve as a **Single Source of Truth (SSoT)** for a smart infrastructure organization.
 
